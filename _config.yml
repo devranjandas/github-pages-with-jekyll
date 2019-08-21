@@ -3,7 +3,7 @@ theme: minima
 author: Dev Ranjan Das
 email: devranjandas@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  This is my effort at learning Github. So eventually I will port all my notebooks written in MarkDown using Jupyter Notebooks.
+  This is my efforts at learning Github. So eventually I will port all my notebooks written in MarkDown using Jupyter Notebooks.
 
 # social links
 twitter_username: devranjandas
