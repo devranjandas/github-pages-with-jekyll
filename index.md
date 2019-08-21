@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Dev Ranjan's blog
 
-I'm glad you are here. I plan to talk about ...
+Welcome to my blog. Here I plan to upload all my notebooks that I make in MarkDown using Jupyter Notebooks.
